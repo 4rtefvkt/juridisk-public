@@ -63,7 +63,7 @@ Pour transformer le savoir passif en réflexe juridique, Juridisk intègre un mo
 </div>
 
 ### 4. Le CMS "Invisible" (Édition Administrateur)
-Pour les créateurs de contenu et professeurs, maintenir l'outil à jour ne demande aucune compétence technique ni logiciel tiers.
+Pour les étudiants et professeurs, maintenir l'outil à jour ne demande aucune compétence technique ni logiciel tiers.
 
 * **Édition WYSIWYG In-App :** Si l'utilisateur possède les droits d'administration, il peut éditer le cours ou les flashcards *directement depuis l'interface de lecture* (via `Ctrl+Shift+E` ou tapotement multiple sur l'écran).
 * **Toolbar Contextuelle :** Sur mobile, les contrôles de navigation mutent dynamiquement en outils d'enregistrement et de formatage (boutons de validation) pour optimiser l'espace écran.
