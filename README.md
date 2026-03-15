@@ -111,7 +111,7 @@ Pour garantir une vélocité maximale, un temps de chargement inférieur à 50ms
 
 **Copyright © 2026 Juridisk — Tous droits réservés**
 
-Le code source, l'interface graphique ainsi que l'intégralité des contenus pédagogiques sont la propriété exclusive de l'auteur.
+Le code source, la base de données et les synthèses sont la propriété de l'auteur. Le contenu est mis à disposition dans un cadre de 'fair use' (usage loyal) à des fins d'illustration pédagogique pour les étudiants de l'IED.
 
 1. **Interdiction de reproduction :** Toute copie, redistribution ou republication du code ou du contenu est strictement interdite sans autorisation écrite préalable.
 2. **Droit d'usage personnel :** Un droit d'accès gratuit est concédé aux étudiants de l'Université Paris 1 Panthéon-Sorbonne pour un usage strictement privé et pédagogique.
