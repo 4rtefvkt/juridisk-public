@@ -89,7 +89,7 @@ Juridisk a été pensé pour s'intégrer de manière transparente et sécurisée
 
 ### 2. Intégrité des Données & Souveraineté
 * **Protection XSS :** L'intégralité du contenu dynamique est traitée par `DOMPurify` avant le rendu dans le DOM, garantissant une étanchéité totale face aux failles par injection.
-* **Hébergement Européen :** Les données sont hébergées via Supabase (PostgreSQL) sur les serveurs AWS situés à Francfort/Irlande, respectant le cadre de souveraineté européenne.
+* **Hébergement Européen :** Les données sont hébergées via Supabase (PostgreSQL) sur les serveurs AWS situés en Irlande, respectant le cadre de souveraineté européenne.
 * **Row Level Security (RLS) :** La base de données rejette nativement toute altération non autorisée. La logique de sécurité est ancrée dans le backend, empêchant toute manipulation via la console du navigateur.
 
 ### 3. Conformité RGPD & Droit à l'Oubli
